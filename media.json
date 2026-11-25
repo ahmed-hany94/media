@@ -1,0 +1,112 @@
+{
+    "nocturne": {
+        "name": "nocturne",
+        "img": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+        "type": "TV"
+    },
+    "Boardwalk Empire": {
+        "name": "Boardwalk Empire",
+        "img": "https://image.tmdb.org/t/p/w342/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg",
+        "type": "TV"
+    },
+    "Eternally Yours": {
+        "name": "Eternally Yours",
+        "img": "https://image.tmdb.org/t/p/w342/gMKJJtwOnTkhkbdQabyo7OKTosb.jpg",
+        "type": "TV"
+    },
+    "The Day of the Jackal (2024)": {
+        "name": "The Day of the Jackal (2024)",
+        "img": "https://image.tmdb.org/t/p/w342/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
+        "type": "TV"
+    },
+    "Mobland": {
+        "name": "Mobland",
+        "img": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+        "type": "TV"
+    },
+    "Legends": {
+        "name": "Legends",
+        "img": "https://image.tmdb.org/t/p/w342/eYYTgBtsvvA3fC1feyvoqv0G9Gl.jpg",
+        "type": "TV"
+    },
+    "The Gold": {
+        "name": "The Gold",
+        "img": "https://image.tmdb.org/t/p/w342/9JY9Gza4HQhXjIPXg9uSy8FeiSM.jpg",
+        "type": "TV"
+    },
+    "The Sopranos": {
+        "name": "The Sopranos",
+        "img": "https://image.tmdb.org/t/p/w342/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+        "type": "TV"
+    },
+    "Burn Notice": {
+        "name": "Burn Notice",
+        "img": "https://image.tmdb.org/t/p/w342/o2fnD3SNiQjGVgA2C3ezaeh2HK.jpg",
+        "type": "TV"
+    },
+    "What We Do in the Shadows": {
+        "name": "What We Do in the Shadows",
+        "img": "https://image.tmdb.org/t/p/w342/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
+        "type": "TV"
+    },
+    "Silicon Valley": {
+        "name": "Silicon Valley",
+        "img": "https://image.tmdb.org/t/p/w342/4ptpmWBVD9HY9hMh8Cbs6SMiy7p.jpg",
+        "type": "TV"
+    },
+    "Slow Horses": {
+        "name": "Slow Horses",
+        "img": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+        "type": "TV"
+    },
+    "War and Peace": {
+        "name": "War and Peace",
+        "img": "https://image.tmdb.org/t/p/w342/e9uqJMuJXTlqgHrzmMjzhUsw7nI.jpg",
+        "type": "TV"
+    },
+    "The Mentalist": {
+        "name": "The Mentalist",
+        "img": "https://image.tmdb.org/t/p/w342/k0kMdO52LpC5JWgd0uWEH7gqcCe.jpg",
+        "type": "TV"
+    },
+    "Dexter": {
+        "name": "Dexter",
+        "img": "https://image.tmdb.org/t/p/w342/i8ORB1biusVy703lGxUi5Rle6zA.jpg",
+        "type": "TV"
+    },
+    "Hannibal": {
+        "name": "Hannibal",
+        "img": "https://image.tmdb.org/t/p/w342/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
+        "type": "TV"
+    },
+    "You're the Worst": {
+        "name": "You're the Worst",
+        "img": "https://image.tmdb.org/t/p/w342/whXfP89yXz4AwQ9dzWCTGcl9YvV.jpg",
+        "type": "TV"
+    },
+    "SAS Rogue Heroes": {
+        "name": "SAS Rogue Heroes",
+        "img": "https://image.tmdb.org/t/p/w342/Tc1mRuP5QrGaetGKcitZkhTU9g.jpg",
+        "type": "TV"
+    },
+    "Sugar": {
+        "name": "Sugar",
+        "img": "https://image.tmdb.org/t/p/w342/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+        "type": "TV"
+    },
+    "The Night Manager": {
+        "name": "The Night Manager",
+        "img": "https://image.tmdb.org/t/p/w342/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
+        "type": "TV"
+    },
+    "Mr. Robot": {
+        "name": "Mr. Robot",
+        "img": "https://image.tmdb.org/t/p/w342/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+        "type": "TV"
+    },
+    "Space Force": {
+        "name": "Space Force",
+        "img": "https://image.tmdb.org/t/p/w342/zgu3p4NvisS8CI68cUfBKbvAvu8.jpg",
+        "type": "TV"
+    }
+}
